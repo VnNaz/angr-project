@@ -49,8 +49,10 @@ _Below is an example of how you can install project to your local machine_
 ## Contact
 
 Е.А.Жабко      - [@trashanenetwork](https://twitter.com/@trashanenetwork) 
+
 Ву Хоай Нам    - [@vnam0320](https://twitter.com/@vnam0320) 
-Нгуен Тхе Хунг - [@@Хунг Нгуен ](https://twitter.com/@Хунг Нгуен) 
+
+Нгуен Тхе Хунг - [@Хунг Нгуен ](https://twitter.com/@Хунг Нгуен) 
 
 
 Project Link: [angr-project](https://github.com/VnNaz/angr-project)
