@@ -63,7 +63,9 @@ Project Link: [angr-project](https://github.com/VnNaz/angr-project)
 <!-- Example -->
 ## Example
 
-angr does a lot of binary analysis stuff. To get you started, here's a simple example of using symbolic execution to get a flag in a CTF challenge.
+Here are simple example of using symbolic execution to crack the code and get the password. 
+![image](https://github.com/VnNaz/angr-project/assets/114447619/43437ea1-ecaa-4f6d-bc14-9d6e6ccb3095)
+
 
 ```python
 import angr
