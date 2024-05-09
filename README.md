@@ -65,8 +65,11 @@ Project Link: [angr-project](https://github.com/VnNaz/angr-project)
 
 Here are simple example of using symbolic execution to crack the code and get the password. 
 We have the program that written in C#.
+
 ![image](https://github.com/VnNaz/angr-project/assets/114447619/43437ea1-ecaa-4f6d-bc14-9d6e6ccb3095)
+
 Using Visual Studio, convert the source code to binary file. Using binary ninja we got the path execution. 
+
 ![image](https://github.com/VnNaz/angr-project/assets/114447619/101e8c05-2703-4f8b-a6ee-eba4fab13709)
 
 Inject the symbol using angr and get the password.
